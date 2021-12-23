@@ -1,0 +1,1 @@
+g++ -Wall -o b.o button.c -lwiringPi
