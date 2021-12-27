@@ -62,13 +62,13 @@ A step by step series that tell you how to get the Firmware and Backend running
 
 Follow the pinout diagram given below to connect different components to your Raspberry Pi
 
-![Pinout](Circuit/ESP32-Pinout.jpg)
+![Pinout](artwork/rpipins.png)
 
 ### Complete Circuit Diagram
 
 Here's the complete circuit diagram of the system.
 
-![CircuitDiagram](Circuit/Circuit_bb.png)
+![CircuitDiagram](artwork/Circuit_bb.png)
 
 #### Fimrware
 
